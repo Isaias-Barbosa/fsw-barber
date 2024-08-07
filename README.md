@@ -2,8 +2,8 @@
 
 - [x] Setup do banco
 - [X] Seeding do banco (colocar dados)
-- [] Indrodução ao Next.js
-- [] Tailwind e Shadcn
+- [X] Indrodução ao Next.js
+- [X] Tailwind e Shadcn
 - [] Git Hooks
 
 
